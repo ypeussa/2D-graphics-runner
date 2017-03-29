@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 2cb89f3b9398e134589b26eeb4d39ab1
-timeCreated: 1489400229
+timeCreated: 1490706380
 licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
@@ -188,13 +188,13 @@ TextureImporter:
       name: levelfarback_purplemountains
       rect:
         serializedVersion: 2
-        x: 1915
-        y: 2117
-        width: 1950
-        height: 972
+        x: 1919
+        y: 2122
+        width: 1940
+        height: 971
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 3, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
